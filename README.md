@@ -23,10 +23,10 @@ I make stuff and put it on the internet. Occasionally some of that stuff is pret
 
 <p align="center">
   <picture>
-    <img height=175 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toasterofbread&theme=tokyonight">
+    <img height=160 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toasterofbread&theme=tokyonight">
   </picture>
   <picture>
-    <img height=175 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toasterofbread&theme=tokyonight">
+    <img height=160 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toasterofbread&theme=tokyonight">
   </picture>
 </p>
 
