@@ -2,7 +2,7 @@
 <img align="right" height=160 src="https://streak-stats.demolab.com?user=toasterofbread&theme=catppuccin-mocha&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=150&type=png&background=290F0F00&hide_total_contributions=true&hide_longest_streak=true">
 </picture>
 
-## Hello!
+# Hello World!
 
 <picture>
   <img src="https://skillicons.dev/icons?i=godot,kotlin,androidstudio,py,cpp">
@@ -16,8 +16,14 @@
 
 I make stuff and put it on the internet. Occasionally some of that stuff is pretty cool.
 
-### Currently working on:
-[![toasterofbread/spmp - GitHub](https://gh-card.dev/repos/toasterofbread/spmp.svg)](https://github.com/toasterofbread/spmp)
+### Right now I'm making:
+<a href="https://github.com/toasterofbread/spmp"><img height=160 src="repo-cards/spmp.png"></a>
+
+### Projects:
+
+<picture>
+  <img height=200 src="images/OME.gif">
+</picture>
 
 ##
 
@@ -29,9 +35,3 @@ I make stuff and put it on the internet. Occasionally some of that stuff is pret
     <img height=160 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toasterofbread&theme=tokyonight">
   </picture>
 </p>
-
-
-
-
-
-
