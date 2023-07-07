@@ -16,10 +16,8 @@
 
 I make stuff for fun and put it on the Internet. I've been programming on and off (but mostly on) since teaching myself Python in 2019.
 
-<br>
-
-<details open>
-  <summary><h2>A timeline of my projects</h2></summary>
+<details>
+  <summary><h3>A timeline of my projects</h3></summary>
 
 ### 2023 / 2022
 
@@ -169,11 +167,11 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
 </div>
 
 ### 2019
+---
 
 ##### - Various Python Discord bots
 ##### - Python command-line calculator
 
-<br>
 <br>
 <br>
 <br>
