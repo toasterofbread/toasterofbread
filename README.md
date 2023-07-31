@@ -34,7 +34,7 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
   ### [SpMp](https://github.com/toasterofbread/spmp)
   ```
   A YouTube Music client I've been making since August 2022.
-  I've implement useful queue manipulation features, as well as language and metadata customisation options.
+  I've implemented useful queue manipulation features, as well as language and metadata customisation options.
   Seeing poor song title translations on a daily basis in the official app and not being able to change them was a great motivator.
   ```
 </div>
