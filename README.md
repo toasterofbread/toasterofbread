@@ -19,7 +19,7 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
 <details>
   <summary><h3>A timeline of my projects</h3></summary>
 
-### 2023 / 2022
+### 2022~2024 (ongoing)
 
 ---
 
