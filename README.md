@@ -50,8 +50,7 @@ A developer in the SpMp Discord who was creating their own music app mentioned t
 
 I'd been planning on making the API code into its own library anyway, so I offered to get the project started. It took me about a week to separate and clean the code, and add some (very) basic documentation and a sample file.
 
-### 2022~2024 (ongoing)
-
+### 2022
 ---
 
 <div>
@@ -62,7 +61,7 @@ I'd been planning on making the API code into its own library anyway, so I offer
     <img align="right" height=300 src="images/SpMp-1.png">
   </picture>
 
-  ### [SpMp](https://github.com/toasterofbread/spmp)
+  ### [SpMp](https://github.com/toasterofbread/spmp) (ongoing)
   A YouTube Music client for both Android and Linux I've been making since August 2022 using Compose Multiplatform.
   I've implemented useful queue manipulation features, as well as language and metadata customisation options.
   
@@ -75,9 +74,6 @@ I'd been planning on making the API code into its own library anyway, so I offer
 <br>
 <br>
 <br>
-
-### 2022
----
 
 <div>
   <picture>
