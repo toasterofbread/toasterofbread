@@ -19,27 +19,56 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
 <details>
   <summary><h3>A timeline of my projects</h3></summary>
 
+### 2024
+
+---
+
+<div>
+  <picture>
+    <img align="right" height=300 src="images/SinkSabre-1.png">
+  </picture>
+
+  ### [SinkSabre](https://github.com/toasterofbread/sinksabre)
+  The solution I was using to transfer Beat Saber maps onto my Quest (SinkSaber) was suddenly removed one day, so naturally I had to implement a solution myself.
+
+  I used Compose Multiplatform again, and it was really satisfying to reuse [code I'd originally written for SpMp](https://github.com/toasterofbread/spmp) and see how quickly I could put the UI together.
+
+  This is probably the first legitimately useful project (not including small scripts) that I've put together and fully completed, and I did it in just 5 days.
+</div>
+
+<br>
+<br>
+<br>
+
+### [mediasession-kt](https://github.com/toasterofbread/mediasession-kt)
+
+While looking for a way to add OS media session integration to SpMp, I did find a working Java library, but I wanted a solution that would also work with [spmp-server](https://github.com/toasterofbread/spmp-server) (which uses Kotlin/Native), so I implemented the DBus MPRIS protocol myself.
+
+### [ytm-kt](https://github.com/toasterofbread/ytm-kt)
+
+A developer in the SpMp Discord who was creating their own music app mentioned they were looking at SpMp's code for interfacing with YouTube's API but didn't like that it was mixed with UI code in some places.
+
+I'd been planning on making the API code into its own library anyway, so I offered to get the project started. It took me about a week to separate and clean the code, and add some (very) basic documentation and a sample file.
+
 ### 2022~2024 (ongoing)
 
 ---
 
 <div>
   <picture>
-    <img align="left" height=300 src="images/SpMp-2.png">
+    <img align="right" height=300 src="images/SpMp-2.png">
   </picture>
   <picture>
-    <img align="left" height=300 src="images/SpMp-1.png">
+    <img align="right" height=300 src="images/SpMp-1.png">
   </picture>
 
   ### [SpMp](https://github.com/toasterofbread/spmp)
-  ```
-  A YouTube Music client I've been making since August 2022.
+  A YouTube Music client for both Android and Linux I've been making since August 2022 using Compose Multiplatform.
   I've implemented useful queue manipulation features, as well as language and metadata customisation options.
+  
   Seeing poor song title translations on a daily basis in the official app and not being able to change them was a great motivator.
-  ```
 </div>
 
-<br>
 <br>
 <br>
 <br>
@@ -52,7 +81,7 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
 
 <div>
   <picture>
-    <img align="left" height=200 src="images/RE.gif">
+    <img align="right" height=200 src="images/RE.gif">
   </picture>
 
   ### [RE](https://github.com/toasterofbread/RE)
@@ -68,7 +97,7 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
 
 <div>
   <picture>
-    <img align="left" height=200 src="images/Kakutroid-1.png">
+    <img align="right" height=200 src="images/Kakutroid-1.png">
   </picture>
 
   ### [Kakutroid](https://github.com/toasterofbread/Kakutroid)
@@ -88,7 +117,7 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
 
 <div>
   <picture>
-    <img align="left" height=200 src="images/GO2021-1.png">
+    <img align="right" height=200 src="images/GO2021-1.png">
   </picture>
 
   ### [Game Off 2021 entry](https://github.com/toasterofbread/Game-Off-2021)
@@ -104,7 +133,7 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
 
 <div>
   <picture>
-    <img align="left" height=200 src="images/DINO.gif">
+    <img align="right" height=200 src="images/DINO.gif">
   </picture>
 
   ### [Untitled Dino Game](https://github.com/toasterofbread/Untitled-Dino-Game)
@@ -120,7 +149,7 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
 
 <div>
   <picture>
-    <img align="left" height=200 src="images/MPF.gif">
+    <img align="right" height=200 src="images/MPF.gif">
   </picture>
 
   ### [Metroid in Godot (again)](https://github.com/toasterofbread/godot-metroid-engine)
@@ -140,7 +169,7 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
 
 <div>
   <picture>
-    <img align="left" height=200 src="images/OME.gif">
+    <img align="right" height=200 src="images/OME.gif">
   </picture>
   
   ### [Super Metroid in Godot](https://github.com/toasterofbread/original-metroid-engine)
@@ -157,7 +186,7 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
 
 <div>
   <picture>
-    <img align="left" height=100 src="images/MultiBot.png">
+    <img align="right" height=100 src="images/MultiBot.png">
   </picture>
   
   ### [MultiBot](https://github.com/toasterofbread/Multi-Bot-Rewrite)
