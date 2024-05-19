@@ -31,7 +31,7 @@ I make stuff for fun and put it on the Internet. I've been programming on and of
   ### [SinkSabre](https://github.com/toasterofbread/sinksabre)
   The solution I was using to transfer Beat Saber maps onto my Quest (SinkSaber) was suddenly removed one day, so naturally I had to implement a solution myself.
 
-  I used Compose Multiplatform again, and it was really satisfying to reuse [code I'd originally written for SpMp](https://github.com/toasterofbread/spmp) and see how quickly I could put the UI together.
+  I used Compose Multiplatform again, and it was really satisfying to reuse [code I'd originally written for SpMp](https://github.com/toasterofbread/composekit) and see how quickly I could put the UI together.
 
   This is probably the first legitimately useful project (not including small scripts) that I've put together and fully completed, and I did it in just 5 days.
 </div>
