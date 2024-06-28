@@ -9,7 +9,7 @@
 </picture>
 
 <picture>
-  <img align="right" src="https://skillicons.dev/icons?i=linux,vscode">
+  <img align="right" src="https://skillicons.dev/icons?i=linux,nix,vscode">
 </picture>
 
 <br>
